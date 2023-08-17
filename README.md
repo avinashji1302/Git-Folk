@@ -56,3 +56,4 @@ Meet the team:
 
 
 <a href="https://github.com/avinashji1302"><img src="https://avatars.githubusercontent.com/u/91355822?v=4" width="60px" /></a>
+<a href="https://github.com/alvarotorrestx"><img src="https://avatars.githubusercontent.com/u/79110517?v=4" width="60px" /></a>
