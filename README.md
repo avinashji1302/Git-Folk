@@ -30,6 +30,26 @@ This Project we are starting for the folks who wants contribute in open source a
 
 # Installation
 
+To run the Git-Folk project locally, follow these steps:
+
+1. Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/your-username/
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd 
+```
+
+3. Install the dependencies using npm:
+
+```bash
+npm install
+```
+
 # Usage
 
 # Configuration
